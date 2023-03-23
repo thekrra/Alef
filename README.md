@@ -12,20 +12,21 @@ The whole idea of the application is that you can browse a map based on the user
 # User Interface
 
 - Splash screen of the application 
-![splash](https://user-images.githubusercontent.com/105181239/227364969-c1e40c7a-8eb8-47bf-a1ed-f3e26640ce68.png)
+<img width="200" alt="splash" src="https://user-images.githubusercontent.com/105181239/227364969-c1e40c7a-8eb8-47bf-a1ed-f3e26640ce68.png">
 
 - Popup window to ask permission to track user's location
-![userLocation](https://user-images.githubusercontent.com/105181239/227367231-fa89e5e4-2fc7-4e2a-8373-b10042b17253.png)
+<img width="200" alt="ULocation" src="https://user-images.githubusercontent.com/105181239/227367231-fa89e5e4-2fc7-4e2a-8373-b10042b17253.png">
 
 - First tab bar "Goodness map" that shows a map (based on the user's location) in which they can check the locations of the selection of their choice
-![firstTab](https://user-images.githubusercontent.com/105181239/227367346-fcaacd07-d5f1-4ef4-b39b-6b58399802be.png)
+<img width="200" alt="Firsttab" src="https://user-images.githubusercontent.com/105181239/227367346-fcaacd07-d5f1-4ef4-b39b-6b58399802be.png">
 
 - To get a better look at each item on the map click on it to see the "sheet" window that shows additional information about the items
-![sheet](https://user-images.githubusercontent.com/105181239/227367895-3355fbcf-22f0-4965-8aa1-110abdd1760a.png)
+<img width="200" alt="sheet" src="https://user-images.githubusercontent.com/105181239/227367895-3355fbcf-22f0-4965-8aa1-110abdd1760a.png">
 
 - Second tab bar is the "Add" tab that allows the user to suggest a new location by dragging and dropping a pin then selecting the type of segment from the three choices above
-![SecTab](https://user-images.githubusercontent.com/105181239/227367464-8bffd820-c91f-48d5-b333-b43f4c150eb4.png)
+<img width="200" alt="sectab" src="https://user-images.githubusercontent.com/105181239/227367464-8bffd820-c91f-48d5-b333-b43f4c150eb4.png">
 
 - A window that thanks the user for their contribution after suggestion a place to be addes. The suggestions must be reviewed and approved before addes to the map
-![thanks](https://user-images.githubusercontent.com/105181239/227368143-505128ac-8f10-4699-80e0-ea893a58398c.png)
+<img width="200" alt="thanks" src="https://user-images.githubusercontent.com/105181239/227368143-505128ac-8f10-4699-80e0-ea893a58398c.png">
+
 
