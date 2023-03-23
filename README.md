@@ -1,6 +1,6 @@
 # Alef
 
-<img width="100" alt="Alef_logo" src="https://user-images.githubusercontent.com/105181239/227368533-53097ed4-f9b0-4f5f-bd08-df55b8860542.jpg">
+<img width="200" alt="Alef_logo" src="https://user-images.githubusercontent.com/105181239/227368533-53097ed4-f9b0-4f5f-bd08-df55b8860542.jpg">
 
 The development of a donation app called (Alef) that helps the user to find the nearest location of Refrigerators, Clothes collecting boxes and Water taps so that they can either give donations or benefit from them.
 
